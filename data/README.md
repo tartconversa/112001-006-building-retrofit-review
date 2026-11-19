@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic building schedule, utility, comfort sampling and retrofit acceptance records.
+用于复核公共建筑改造的合成开放计划、能耗、舒适度抽测和验收记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
