@@ -1,0 +1,5 @@
+building_id,use_type,open_days,open_hours_per_day,valid_from,valid_to
+BL01,library,6,12,2025-01-01,
+BL02,clinic,7,16,2025-01-01,
+BL03,community_hall,5,9,2025-01-01,2026-02-28
+BL03,library,6,12,2026-03-01,

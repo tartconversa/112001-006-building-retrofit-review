@@ -1,0 +1,4 @@
+building_id,period,electric_kwh,gas_m3,degree_days,coverage_pct
+BL01,2025-Q4,18200,430,702,99
+BL01,2026-Q1,15100,410,610,98
+BL02,2026-Q1,24600,800,610,95

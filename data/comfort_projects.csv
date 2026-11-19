@@ -1,0 +1,4 @@
+record_id,building_id,date,comfort_sample_pct,complaint_count,project_id,stage,effective_date
+C01,BL01,2026-01-20,84,7,PR01,commissioning,2026-01-05
+C02,BL01,2026-04-20,96,1,PR01,accepted,2026-03-01
+C03,BL02,2026-04-12,52,12,PR02,planned,2026-08-01
