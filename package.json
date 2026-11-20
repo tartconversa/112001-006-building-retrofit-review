@@ -1,0 +1,12 @@
+{
+  "name": "public-retrofit-review",
+  "private": true,
+  "description": "Dev tooling for the retrofit review UI tests (the app itself has no npm dependencies).",
+  "scripts": {
+    "test:js": "node --test tests/js/*.test.mjs",
+    "test:py": "python3 -m unittest discover -s tests -v"
+  },
+  "devDependencies": {
+    "jsdom": "^25.0.0"
+  }
+}

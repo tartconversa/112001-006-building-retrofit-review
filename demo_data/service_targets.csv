@@ -1,0 +1,5 @@
+use_type,min_open_days,min_open_hours_per_day,min_comfort_sample_pct,valid_from
+library,5,10,85,2025-01-01
+clinic,7,16,90,2025-01-01
+community_hall,4,8,80,2025-01-01
+office,5,8,85,2025-01-01

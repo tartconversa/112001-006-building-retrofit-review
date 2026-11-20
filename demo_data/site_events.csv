@@ -1,0 +1,4 @@
+event_id,building_id,event_type,start,end,verified,note
+EV01,BL01,meter_replacement,2025-06-18,2025-06-18,false,施工期间更换总电表
+EV02,BL03,tenant_change,2026-01-15,2026-04-30,false,活动厅转图书馆试运行
+EV03,BL02,equipment_commissioning,2025-08-10,2025-08-20,true,相邻科室加装分体空调

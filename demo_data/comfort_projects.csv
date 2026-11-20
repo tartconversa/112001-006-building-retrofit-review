@@ -1,0 +1,12 @@
+record_id,building_id,date,comfort_sample_pct,complaint_count,project_id,stage,effective_date,sample_count,sample_coverage_pct
+C01,BL01,2025-03-12,90,3,PR01,accepted,2025-03-12,120,20
+C02,BL01,2025-09-18,93,1,PR01,accepted,2025-07-15,110,18
+C03,BL02,2025-04-08,91,2,PR02,accepted,2025-04-08,95,16
+C04,BL02,2025-08-20,72,14,PR02,accepted,2025-07-01,88,15
+C05,BL03,2026-02-10,83,4,PR03,accepted,2026-02-10,70,14
+C06,BL03,2026-05-20,88,2,PR03,accepted,2026-03-11,72,15
+C07,BL04,2025-07-15,86,4,PR04,accepted,2025-07-15,60,12
+C08,BL04,2025-11-20,86,3,PR04,accepted,2025-10-01,80,16
+C09,BL02,2026-09-12,89,3,PR05,planned,2026-09-12,55,10
+C10,BL01,2026-10-02,90,2,PR06,planned,2026-10-02,64,12
+C11,BL04,2026-09-20,92,1,PR07,planned,2026-09-20,120,17

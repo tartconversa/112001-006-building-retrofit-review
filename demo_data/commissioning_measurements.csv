@@ -1,0 +1,5 @@
+measurement_id,project_id,date,electric_kwh,gas_m3,degree_days,comfort_sample_pct,sample_count,note
+M01,PR01,2025-10-15,10500,520,420,,
+M02,PR02,2026-02-18,16200,780,560,,
+M03,PR03,2026-05-05,14500,330,180,,
+M04,PR04,2026-03-10,13000,700,470,,
